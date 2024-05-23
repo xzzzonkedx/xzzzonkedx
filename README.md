@@ -37,18 +37,25 @@ I'm currently looking for a challenging position as a Security Analyst where I c
 ### SIEM
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logoColor=white" />
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CHFI-red?&style=for-the-badge&logo=Color=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+<a href="https://www.credly.com/badges/82b01c52-0ce0-4e4b-bfea-107e6ff0f5ab/public_url"><img src="https://img.shields.io/badge/-A%2B-ee2f25?&style=for-the-badge&logoColor=white" /></a>
+<a href="https://www.credly.com/badges/9340e45b-dd52-42d2-88c8-583e224a1ae2/public_url"><img src="https://img.shields.io/badge/-Network%2B-ee2f25?&style=for-the-badge&logo=Color=white" /></a>
+<img src="https://img.shields.io/badge/-CHFI-000000?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-CEH-000000?&style=for-the-badge&logo=Color=white" />
+<a href="https://www.credly.com/badges/9e545f5a-ab39-47a1-a82f-1ee27979636a/public_url"><img src="https://img.shields.io/badge/-CISSP-016f54?&style=for-the-badge&logoColor=white" /></a>
+<img src="https://img.shields.io/badge/-Imprivata OneSign Administrator-D00435?&style=for-the-badge&logo=Color=white" />
+</div>
+
+### Education
+<div>
+    <img src="https://img.shields.io/badge/-MS Cybersecurity-003058?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-BSBA Computer Information Systems-E82930?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-AS Business Administration-004681?&style=for-the-badge&logoColor=white" />
 </div>
 
 ## Projects

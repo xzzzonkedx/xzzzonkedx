@@ -12,8 +12,8 @@ I'm currently looking for a challenging position as a Security Analyst where I c
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| SIEM Implementation and Log Analysis          | <a href="https://github.com/xzzzonkedx/Detection-Lab/">Detection Lab</a>|
+| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/xzzzonkedx/Detection-Lab/">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|

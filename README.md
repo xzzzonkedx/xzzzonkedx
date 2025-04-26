@@ -1,63 +1,52 @@
-# Hello, I'm Lauren!
-<a href="https://www.linkedin.com/in/laurenmkendall/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+# 👩‍💻 Lauren Rader | Modern Endpoint Security Portfolio
 
+**Experienced Systems Engineer | Endpoint Management | Cloud & Security Enthusiast**
 
-I'm a cybersecurity enthusiast and Systems Engineer of 9 years. 
+🌟 Welcome to my professional portfolio, where I share hands-on labs, automation projects, and technical notes focused on modern endpoint management and cloud security.  
+🔒 **Specialties:** Microsoft Intune | Azure AD | PowerShell Scripting | Endpoint Security | Automation | Cloud Security
 
-## Objective
+---
 
-I'm currently looking for a challenging position as a Security Analyst where I can utilize my current skills and abilities, as well as develop new ones.
+## 🚀 Featured Labs & Projects
 
-## Skills
+### 🛡️ Azure Conditional Access Lab
+- Build and test Conditional Access policies in a demo environment.
+- Documented test cases, simulations, and best practices.
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://github.com/xzzzonkedx/Detection-Lab/">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/xzzzonkedx/Detection-Lab/">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+### 🔍 Microsoft Defender for Endpoint Lab
+- Deployment and configuration walkthrough.
+- Simulated attacks, alert investigation, and response documentation.
 
-## Tools
+### 🏛️ Intune Security Baselines
+- Hardening Windows 10/11 endpoints with Microsoft-recommended security baselines.
+- Notes on customizing baselines for real-world environments.
 
-### Network
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
-</div>
+### 🛠️ Custom Compliance Scripts
+- PowerShell scripts for endpoint compliance:
+  - BitLocker Encryption Checks
+  - Antivirus Status Checks
+  - Windows Update Health Monitoring
 
-### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-</div>
+### 🚚 Autopilot Deployment Lab
+- Full Autopilot configuration: hardware hash collection, profile creation, and user-driven deployment.
+- Documented setup and troubleshooting.
 
-### SIEM
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-</div>
+### 📦 Intune App Packaging Automation
+- PowerShell tooling for automating `.intunewin` app packaging and version control.
+- Build once, update easily!
 
-## Certifications
-<div>
-<a href="https://www.credly.com/badges/82b01c52-0ce0-4e4b-bfea-107e6ff0f5ab/public_url"><img src="https://img.shields.io/badge/-A%2B-ee2f25?&style=for-the-badge&logoColor=white" /></a>
-<a href="https://www.credly.com/badges/9340e45b-dd52-42d2-88c8-583e224a1ae2/public_url"><img src="https://img.shields.io/badge/-Network%2B-ee2f25?&style=for-the-badge&logo=Color=white" /></a>
-<img src="https://img.shields.io/badge/-CHFI-000000?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CEH-000000?&style=for-the-badge&logo=Color=white" />
-<a href="https://www.credly.com/badges/9e545f5a-ab39-47a1-a82f-1ee27979636a/public_url"><img src="https://img.shields.io/badge/-CISSP-016f54?&style=for-the-badge&logoColor=white" /></a>
-<img src="https://img.shields.io/badge/-Imprivata OneSign Administrator-D00435?&style=for-the-badge&logo=Color=white" />
-</div>
+---
 
-### Education
-<div>
-    <img src="https://img.shields.io/badge/-MS Cybersecurity-003058?&style=for-the-badge&logoColor=white" />
-    <img src="https://img.shields.io/badge/-BSBA Computer Information Systems-E82930?&style=for-the-badge&logoColor=white" />
-    <img src="https://img.shields.io/badge/-AS Business Administration-004681?&style=for-the-badge&logoColor=white" />
-</div>
+## 📚 Blog-Style Technical Notes
 
-## Projects
-- Detection Lab
-- SOC Automation Project
+A collection of deep dives and learnings from building the labs:
+- **Intune App Deployment Best Practices** (Coming Soon)
+- **Building SSRS Reports for Endpoint Management** (Coming Soon)
+- **Cloud Security Concepts I'm Exploring** (Coming Soon)
+- **MDT to Autopilot Transition Guide** (Coming Soon)
+
+---
+
+## 📫 Connect With Me
+- [LinkedIn](#)
+- [Resume (PDF)](#)

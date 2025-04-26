@@ -9,29 +9,29 @@
 
 ## 🚀 Featured Labs & Projects
 
-### 🛡️ Azure Conditional Access Lab
+### 🛡️ [Azure Conditional Access Lab](https://github.com/yourusername/Modern-Endpoint-Security-Lab/tree/main/Azure-Conditional-Access-Lab)
 - Build and test Conditional Access policies in a demo environment.
 - Documented test cases, simulations, and best practices.
 
-### 🔍 Microsoft Defender for Endpoint Lab
+### 🔍 [Microsoft Defender for Endpoint Lab](https://github.com/yourusername/Modern-Endpoint-Security-Lab/tree/main/Microsoft-Defender-for-Endpoint-Lab)
 - Deployment and configuration walkthrough.
 - Simulated attacks, alert investigation, and response documentation.
 
-### 🏛️ Intune Security Baselines
+### 🏛️ [Intune Security Baselines](https://github.com/yourusername/Modern-Endpoint-Security-Lab/tree/main/Intune-Security-Baselines)
 - Hardening Windows 10/11 endpoints with Microsoft-recommended security baselines.
 - Notes on customizing baselines for real-world environments.
 
-### 🛠️ Custom Compliance Scripts
+### 🛠️ [Custom Compliance Scripts](https://github.com/yourusername/Modern-Endpoint-Security-Lab/tree/main/Custom-Compliance-Scripts)
 - PowerShell scripts for endpoint compliance:
   - BitLocker Encryption Checks
   - Antivirus Status Checks
   - Windows Update Health Monitoring
 
-### 🚚 Autopilot Deployment Lab
+### 🚚 [Autopilot Deployment Lab](https://github.com/yourusername/Modern-Endpoint-Security-Lab/tree/main/Autopilot-Deployment-Lab)
 - Full Autopilot configuration: hardware hash collection, profile creation, and user-driven deployment.
 - Documented setup and troubleshooting.
 
-### 📦 Intune App Packaging Automation
+### 📦 [Intune App Packaging Automation](https://github.com/yourusername/Modern-Endpoint-Security-Lab/tree/main/Intune-App-Packaging-Automation)
 - PowerShell tooling for automating `.intunewin` app packaging and version control.
 - Build once, update easily!
 
